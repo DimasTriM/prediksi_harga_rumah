@@ -1,6 +1,10 @@
 # Proyek: Prediksi Harga Rumah (California Housing)
 
-Proyek ini adalah latihan machine learning untuk memprediksi harga median rumah di distrik-distrik California berdasarkan berbagai fitur.
+## 🚀 Pratinjau Aplikasi
+
+![](iamges/pratinjau.png)
+
+Proyek ini adalah latihan machine learning untuk memprediksi harga median rumah.
 
 ## 🎯 Tugas
 Regresi: Memprediksi nilai numerik (Median House Value).
