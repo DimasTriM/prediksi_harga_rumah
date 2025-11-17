@@ -2,7 +2,7 @@
 
 ## 🚀 Pratinjau Aplikasi
 
-![](iamges/pratinjau.png)
+![](images/pratinjau.png)
 
 Proyek ini adalah latihan machine learning untuk memprediksi harga median rumah.
 
